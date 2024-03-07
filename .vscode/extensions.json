@@ -2,6 +2,7 @@
   "recommendations": [
     "esbenp.prettier-vscode",
     "dbaeumer.vscode-eslint",
-    "stkb.rewrap"
+    "stkb.rewrap",
+    "vscodevim.vim"
   ]
 }
